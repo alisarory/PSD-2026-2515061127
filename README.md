@@ -18,5 +18,5 @@ This program performs basic operations on a vector such as adding, deleting, sea
 The program displays a menu and allows the user to choose different operations on the vector.
 
 ## YouTube Link
-[
-](https://youtu.be/cIpUH_KmVDo)
+
+(https://youtu.be/cIpUH_KmVDo)

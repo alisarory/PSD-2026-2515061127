@@ -1,4 +1,4 @@
-<img width="826" height="585" alt="image" src="https://github.com/user-attachments/assets/e781416c-4188-4382-b031-06927c835d6d" /># Judul 2 - Sorting
+# Judul 2 - Sorting
 
 Program ini berisi algoritma sorting menggunakan Python:
 - Bubble Sort
@@ -11,4 +11,4 @@ Program ini berisi algoritma sorting menggunakan Python:
 
 ## Video
 
-https://youtu.be/cIpUH_KmVDo
+(https://youtu.be/cIpUH_KmVDo)
